@@ -9,7 +9,7 @@
 
 ### Web
 1. [Socket.IO NAT Traversal](https://github.com/TeleCAUm/airview-board)
-
+2. [modify drawing method from axis to jitsi way](https://github.com/teleCAUm/airview-board)
 
 ## Education
 - 2017.03 - 2024.08	Chung-Ang University, Computer Science and Engineering
